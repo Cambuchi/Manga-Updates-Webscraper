@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# mangaUpdates.py - script that scrapes information on mangas from mangaupdates.com and writes
+# mangaUpdatesWebscraper.py - script that scrapes information on mangas from mangaupdates.com and writes
 # the data into a csv file. Dependent on requests and bs4.
 
 import requests
