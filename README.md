@@ -3,3 +3,5 @@ Script that scrapes information on mangas from mangaupdates.com and writes the d
 Used by client to sort mangas by availability and popularity to determine which titles to begin scanlating.
 
 Currently set to scrape the first 10 manga IDs at a rate of 1 request per second, quick edit will be needed to scrape more. There is no robots.txt so just be mindful with use.
+
+manga_updates_info.csv - an example file featuring the first 10 manga IDs scraped. Use to see what data is parsed.
